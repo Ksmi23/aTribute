@@ -1,0 +1,64 @@
+* {
+    font-family: "Times New Roman", Arial;
+}
+#main{
+background-color:green;
+}
+#title {
+background-color:khaki;
+  text-align: center;
+  padding: 25px;
+  color:green;
+  font-size: 50px;
+}
+#tag-line {
+    text-align: center;
+    border: 5px solid khaki;
+    background-color: chocolate;
+    color: khaki;
+    font-size: 18px;
+
+}
+#headline {
+    text-align:center;
+    background-color: khaki;
+    padding: 20px;
+    font-size: 30px;
+    color: green;
+}
+#image {
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-caption {
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    color: khaki;
+    padding: 5px;
+
+}
+#footer {
+    font-size: 20px;
+    text-align: center;
+    color: chocolate;
+    background-color: khaki;
+}
+#question {
+    font-size: 24px;
+    text-align: left;
+    background-color: khaki;
+    color: chocolate;
+    border-width: 2px;
+    border-style: solid;
+    border-color:chocolate;
+    
+    
+}
+ol {
+    font-size: 18px;
+    color: khaki;
+}/* Copy and paste your CSS from CodePen into here */
